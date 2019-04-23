@@ -6,6 +6,7 @@ def my_all?(collection)
     i = i + 1
   end
  
+ #what is this saying?
   if block_return_values.include?(false)
     false
   else
